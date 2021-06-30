@@ -1,0 +1,21 @@
+#cv-form{
+    /* display: none; */
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+
+#cv-template{
+    display: none;
+}
+
+.background{
+    background-color: rgb(224, 133, 194);
+}
+
+.fb, .insta, .linkedin{
+    color: #fff;
+    text-decoration: none;
+}
